@@ -863,7 +863,7 @@ body.ie .ibg img {
 }
 .slick-slider .slick-arrow {
 	font-size: 0;
-	background: url("../../img/testimonials/arrow.png") 0 0 no-repeat;
+	background: url("../img/testimonials/arrow.png") 0 0 no-repeat;
 	height: 14px;
 	width: 23px;
 	position: absolute;
@@ -1826,7 +1826,7 @@ body.ie .ibg img {
 }
 .spollers__header::before {
 	content: "";
-	background: url("../../img/services/arrow.png") 0 0 no-repeat;
+	background: url("../img/services/arrow.png") 0 0 no-repeat;
 	position: absolute;
 	width: 11px;
 	height: 6px;
